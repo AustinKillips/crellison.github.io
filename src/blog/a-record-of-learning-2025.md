@@ -43,11 +43,17 @@ and how Bazel as a part of the JS/TS toolchain was massively cumbersome and unin
 - [The Great(er) Divide in front-end](https://pow.rs/blog/3-pillars-of-front-end-knowledge/) (Drew Powers)
 - [Advanced React in the Wild](https://largeapps.dev/case-studies/advanced/) (Addy Osmani and Hassan Djirdeh)
 - [DynamoDB’s Best Feature: Predictability](https://brooker.co.za/blog/2022/01/19/predictability.html) (Marc Brooker)
+- [rspack creators discuss origins](https://github.com/orgs/web-infra-dev/discussions/1)
+- [Performant A/B Testing with Cloudflare Workers](https://philipwalton.com/articles/performant-a-b-testing-with-cloudflare-workers/) (Philip Walton)
+- [When cars kill pedestrians](https://www.newyorker.com/news/our-local-correspondents/when-cars-kill-pedestrians) (Danyoung Kim)
 
 ### The place of AI
 
 - [OpenAI's Studio Ghibli meme factory is an insult to art itself](https://www.bloodinthemachine.com/p/openais-studio-ghibli-meme-factory) (Brian Merchant)
 - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/?ck_subscriber_id=2354594420) (Pete Koomen)
+- [We did the math on AI’s energy footprint. Here’s the story you haven’t heard.](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/) (James O'Donnell and Casey Crownhart)
+- [What if AI treats humans the way we treat animals?](https://www.vox.com/the-highlight/23777171/ai-animals-rights-cruelty-transhumanism-bostrom) (Marina Bolotnikova)
+- [AI is going to hack JIRA](https://thoughtfuleng.substack.com/p/ai-is-going-to-hack-jira) (Christine Miao)
 
 ### Career reflections
 
@@ -96,6 +102,8 @@ While this may be "okay" in groups of only senior+ employees, it becomes *much* 
 > The follow on to modern techniques Stripe is using to generate color systems.
 Heavy on the math, which we like.
 
+- [The spectrum of maturity for design systems](https://www.designsystems.com/the-spectrum-of-maturity-for-design-systems/) (Nikolas Klein)
+
 ### Companies scale their systems
 
 - [Supercharging Discord Mobile: Our Journey to a Faster App](https://discord.com/blog/supercharging-discord-mobile-our-journey-to-a-faster-app) (Ruby Feinstein)
@@ -107,7 +115,6 @@ Setting up linting on new code and a PR bot to pull in the migration orchestrati
 Stripping functionality out of the version of jQuery used was another good move to prevent regressions.
 
 - [Future-proofing our metadata stack with Panda, a scalable key-value store](https://dropbox.tech/infrastructure/panda-metadata-stack-petabyte-scale-transactional-key-value-store) (Preslav Le, Tanay Lathia, and Mehant Baid)
-
 
 ### Figma engineering
 
@@ -162,6 +169,11 @@ As a reporting system and interviewing platform, it seemed functional.
 
 - [On good software engineers](https://candost.blog/on-good-software-engineers/) (Candost Dagdeviren)
 
+### Remote work
+
+- [Make the executive team remote](https://handbook.gitlab.com/handbook/company/culture/all-remote/transition/#make-the-executive-team-remote) (Gitlab remote handbook)
+- [Equitable benefits and perks](https://handbook.gitlab.com/handbook/company/culture/all-remote/hybrid-remote/#equitable-benefits-and-perks) (Gitlab remote handbook)
+
 ### Against web bloat
 
 - [Run less software](https://www.intercom.com/blog/run-less-software/) (Rich Archbold)
@@ -174,6 +186,9 @@ As a reporting system and interviewing platform, it seemed functional.
 - [The Cost of Javscript Frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/) (Tim Kadlec)
 - [Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html) (Tom MacWright)
 - [In defense of the modern web](https://dev.to/richharris/in-defense-of-the-modern-web-2nia) (Rich Harris)
+- [JS bloat in 2024](https://tonsky.me/blog/js-bloat/) (Nikita Prokopov)
+- [The website obesity crisis](https://idlewords.com/talks/website_obesity.htm) (Maciej Cegłowski) from 2015
+- [How web bloat impacts users with slow connections](https://danluu.com/web-bloat/) (Dan Luu)
 
 ## Talks and Docs
 
@@ -270,3 +285,12 @@ There's a [video from Casey Muratori](https://www.youtube.com/watch?v=Z1qyvQsjK5
 - [Overture](https://github.com/fastmail/overture) the framework of Fastmail (also [Squire](https://github.com/fastmail/Squire) for text editing)
 - [Github web components](https://github.com/github/github-elements)
 - [Dataloader](https://github.com/graphql/dataloader) for batching graphQL requests to avoid N+1 query issues ([Ruby port](https://github.com/Shopify/graphql-batch))
+- [Spread ideas with a pocket wi-fi portal](https://iffybooks.net/wp-content/uploads/zines/Iffy_Books_Pocket_Wifi_Portal_Zine_print.pdf) (IFFY Books)
+- [Matt Bateman](https://mattbateman.xyz/writing_etc.php)
+- [Arcol](https://www.arcol.io/) Figma for buildings
+- [Relay GraphQL Client](https://relay.dev/)
+- [Sonda](https://sonda.dev/) bundle visualizer for JS/CSS
+- [You might not need *](https://youmightnotneed.com/)
+- [Terrazzo](https://terrazzo.app/) design systems management
+- [AST Explorer](https://astexplorer.net/)
+- [Crimethink](https://crimethinc.com/)
